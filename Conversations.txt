@@ -1,0 +1,74 @@
+****COMMISSIONER BAGLEY:****
+
+CONVO NO.1 - COMMISH RINGS YOU:
+
+Morning Detective, new case for you to work on and it needs top priority. If anyone can solve this one, it's you. Ready for a rundown?
+
+No -> Well, too bad, you're clocked in.
+
+The victim is a lawyer named Lawrence Macor, died in the early hours of the morning from blunt force trauma to the head. He was found in a motel room next to a bloody broken statuette a few hours after his death by the cleaning lady, bless her soul.
+
+Anyways, this man was working over at Merriweather & Co and from the looks of his file had a winning streak for some time - clearly his luck ran out. I've sent you his details, and the number for The Sunset Motel. That'll be a good place to start.
+
+I'm relying on you and your phone to crack this case - don't let me down. Good luck Detective.
+
+CONVO NO.? - COMMISH CONGRATS (ENDING):
+
+Detective? I hear you cracked the case - congrats. Looks like there was blood in the water after all. Haha!
+
+... Enjoy your weekend - I'll see you soon for the next one I'm sure.
+
+****THE SUNSET MOTEL:****
+
+CONVO NO.2:
+
+Hihello thanksforcalling the sunset motellllll, MYYYE name isGracie how can i helpyou todaaayyyy? 
+
+detective, murder, crime, cleaner, investigation, police -> Yesyeshello officerrrrr, ofcourse so happy tohelp the law solvacrimeeee, Darlene wastheone who found the bodyyyyyy sooo please hold -- DARLEEEEEEEEENNE! THE DETECTIVES ON THE LINEEEEEEEE HEWANTSTOSPEAKTOYOUUUUUUUUUU! WHAAAAAAT?
+
+??? -> WHAAAAAT?
+
+thank you, goodbye -> OkAYYYYYYYY haveafabulousdayyyyy goodbye-
+
+... Hello? Darlene speaking.
+
+morning, night, murder, body, find, found, Lawrence, Macor -> Yes well, I was doing my rounds as I do each morning, and I came to Mr. Macor's door to find it ajar, so I went to check if he was okay and well... there he was! 
+Horribly bloody head, and god it was everywhere, I'm not sure if I'll ever get it out of that carpet.
+
+evidence, clues, suspects -> Well, there was the broken statuette by his head, also bloody. At least we can just replace those. There was also a single napkin in the trashcan that had some code written on it, and then his phone had made two calls. That's all I know.
+
+napkin, code, trashcan -> It was just a random bunch of letters in red ink, --90W-D? No idea what that means.
+
+phone, calls, record -> Yea let me just check our system...
+Ok so, the first one went to that Merriweather & Co office, #989.
+And the other call went to a #565, but that number isn't listed on our system.
+
+witnesses, suspects, see, notice, saw -> I know one of the girls saw him leave at around dinnertime but he was back before midnight. We didn't see anything else after that - we usually clock out around 1AM.
+
+??? -> I don't know anything about that darlin, sorry.
+
+goodbye, thank you -> Alright darlin, take care now, hope you catch 'em!
+
+***MERRIWEATHER AND CO***
+
+CONVO NO.3:
+
+Good Morning you've reached Merriweather and Co, where we sharpen the truth like the blade. You're speaking to Sarah how can I help today?
+
+detective, case, police, officer, murder -> Oh! Good Morning Detective, I was sad to hear the news this morning, Lawrence was such a sweetheart in the break room. But yes, let me know how can I help?
+
+associates, coworkers, friends, relationships, colleages -> Just one moment, I can get you the names of currently active associates…… Brad Holloway, Paolo Juan, Adrian Hazzard. I can't share their numbers sadly.
+
+Case, file -> Lawrence completed many cases with us, could you be more specific? If you have the case reference I'd be happy to pull it up.
+
+case reference -> Yes, usually a short alphanumeric like "--XXX-X".
+
+90W -> Case --90W-D? Sure, I'll send it right over! 
+
+Ana, Strobek -> Sorry, we don't keep information about previous employees. I'ts probably best to speak to Brad, the three seemed... close?
+
+??? -> Uhm, not quite sure I heard that right.
+
+goodbye, thank-> You're very welcome for the help, don't be afraid to call if you need anything else. 
+
+
