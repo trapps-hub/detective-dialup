@@ -67,6 +67,8 @@ case reference -> Yes, usually a short alphanumeric like "--XXX-X".
 
 Ana, Strobek -> Sorry, we don't keep information about previous employees. I'ts probably best to speak to Brad, the three seemed... close?
 
+75v -> Case --75-B? Sure...ok, so this one is still in progress at the moment, and is under a lot of public eye, so I have to send a more censored version through...done!
+
 ??? -> Uhm, not quite sure I heard that right.
 
 goodbye, thank-> You're very welcome for the help, don't be afraid to call if you need anything else. 
@@ -95,10 +97,48 @@ call, phone, brad -> Yes, we talked one last time. A short phone call in the ear
 
 goodbye -> bye.
 
-Brad 
+Brad Holloway
 
 CONVO N0.5
 
+"HEEEELLO! Brad of Merriweather and Co speaking, what can I do for you?
 
+detective, officer, investigation -> Ah, right, It's a shame what happened to Lawrence, he was a stubborn man, but I can't fault his abilities. It's a shame really. Anyway, have you got any questions for me? I need to get back to this huge trial, there's a lot to read, and I'd wish Ana would've learn how to use a typewriter.
 
+Lawrence, case, murder -> Me and Lawrence were alright, we did a few cases together here and there, not much more than that really.
 
+Rosa, 90W, Roberto -> Oh jeez this again? The case is f**cking closed! The girl needs to move on and get on with her life, and it's what Lawrence should've done too! He was always a bit obsessed with justice, but sometimes you just need to do what has to be done.
+
+threat, (If ROSA has mentioned it) -> Threaten? All I did was tell Lawrence to not ruin a good case, do you know how much of a pain it is to do a re-trial? Plus, with this new trial I've been in the office I've been plenty busy.
+
+alibi, morning, motel -> Pfff… You think I killed the guy? Honestly it's a shame what happened, but I wouldn't be so stupid to end my career over a simple case two years ago. Plus, this new trial has had me in the office for the last few days. You can ask the desk lady or the guards where I was last night. That's right, on my fat ass, reading some terrible handwriting.
+
+Trial -> Haven't you heard? Billy Windows is suing that chick for all the mud she spread a few months back. Not my proudest case, but with all those cameras pointing at the trial, it might just be the biggest case the firm has got in a while. When I pull this off, I'll be on the radar of all the big fish, and big fish come with big bags. Oh the reference? --75v-B, knock yourself out.
+
+Billy -> Yeah Billy is your run-of-the-mill crime boss, everyone knows he aint clean, but he somehow sneaks away from justice every time... actually, scrap that, back when Lawrence worked for a different firm, he managed to get a huge score against some of Billy's goons. That must've pissed him off big time. Strange how everything connects huh?
+
+Ana -> Ana? Yeah she used to work over here, actually she was in charge of the big trial before I got assigned, It's a shame really. It was inevitable if I'm honest. She was never the type of person to stand next to a sleazebag like Billy - good thing Billy saw it too.
+
+Lawrence, Ana (after talking to Billy) -> Oh that? Yeah Lawrence had some new dirt on Billy, and he showed it to her. She can't have been impartial after that. A client like Billy deserves the best. It's just Biz.
+
+??? -> ??? what?
+
+goodbye -> Seeya around
+
+Billy Windows
+
+Hello. Who is it.
+
+detective, officer, police -> Ugh what now, IRS? Chicago Police? Can't you guys let a guy do business peacefully?
+
+Lawrence, Murder, case -> Huh? Lawrence?... Oh! The lawyer fella, the one that got me good haha. Honestly I respect him, he put a few of my cronies in the slammer for a good decade, without a care for his wellbeing... Murdered? Guess he had it comin'... but it wasn't my doin'. If I wanted to get him back for that, surely I would've done so years ago? Plus, you can never blame the lawyer.
+
+Brad, Hollaway -> Brad? Oh he's a slimy one too, in a useful way. Turns out the ""lawyer"" chick assigned to me hated my guts, and was probably gonna f**k it up on purpose. Glad Brad knows what's good for him, although he'd benefit from shutting his mouth more often. Come to think of it, I think he mentioned it was Lawrence that let slip her plan. 
+
+Ana, Strobek -> Honestly? Strobek seemed good at her job, though a bit cold. A girl like her could smile more often. Seems like she got given my case to see if she'd be diligent, but I didn't wanna take that risk when Brad told me to avoid her. 
+
+??? -> no clue there.
+
+Ana Bostek
+
+… How can I help?
