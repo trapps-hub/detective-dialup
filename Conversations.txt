@@ -40,10 +40,10 @@ evidence, clues, suspects -> Well, there was the broken statuette by his head, a
 napkin, code, trashcan -> It was just a random bunch of letters in red ink, --90W-D? No idea what that means.
 
 phone, calls, record -> Yea let me just check our system...
-Ok so, the first one went to that Merriweather & Co office, #989.
-And the other call went to a #565, but that number isn't listed on our system.
+Ok so, the first one went to that Merriweather & Co office, #989, in the early afternoon.
+And the other call went to a #565, around 1AM, but that number isn't listed on our system.
 
-witnesses, suspects, see, notice, saw -> I know one of the girls saw him leave at around dinnertime but he was back before midnight. We didn't see anything else after that - we usually clock out around 1AM.
+witnesses, suspects, see, notice, saw -> I know one of the girls saw him leave at around dinnertime but he was back before eleven. We didn't see anything else after that - we usually clock out around 1AM.
 
 ??? -> I don't know anything about that darlin, sorry.
 
@@ -63,12 +63,42 @@ Case, file -> Lawrence completed many cases with us, could you be more specific?
 
 case reference -> Yes, usually a short alphanumeric like "--XXX-X".
 
-90W -> Case --90W-D? Sure, I'll send it right over! 
+90W -> Case --90W-D? Sure... huh, that's quite the old one, I'll send it right over! 
 
 Ana, Strobek -> Sorry, we don't keep information about previous employees. I'ts probably best to speak to Brad, the three seemed... close?
 
 ??? -> Uhm, not quite sure I heard that right.
 
 goodbye, thank-> You're very welcome for the help, don't be afraid to call if you need anything else. 
+
+ROSA Maneres
+
+CONVO NO.4
+
+Uhh, hello, good morning, who am I speaking to?
+
+detective, police, officer -> Oh, uhm... *deep inhale*. What do you want?
+
+lawrence, macor -> Uhhh.... not familiar with them. Is that all?
+
+90W, Roberto, father, dad-> ....Yeah, what about it? What do you want from me? My dad is long gone now. Case closed.
+
+(Lawrence+90W,Roberto+Murder) -> ...what? .....I...we spoke yesterday. He was the prosecutor in the case against my father 2 years ago. My father was an innocent man, but that bastard lawyer had to put him behind bars... just for another tick in his file.
+
+(last+yesterday, spoke) -> Yes! For two years I spent every night finding proof of my fathers innocence. And yesterday to my surprise the lawyer agreed to meet me to see that proof. I don't think proving him wrong made me feel any better... wait... you think I killed him?
+
+(last+yes,alibi) -> I would never do something like that! The lawyer was wrong, but I would never go that far! We simply met at a local diner, I gave him the evidence, watched his face drop, and he left without saying anything else. I thought it would all end there. 
+
+call, phone, brad -> Yes, we talked one last time. A short phone call in the early hour. He was warning me about his partner in my fathers case, I believe his name was Brad. Lawrence told me that when Brad caught wind that he was coming to meet me... he was furious, and threatened him, and well... now he's dead. I don't want to talk more about it. I don't want to be next.
+
+??? -> What? I don't know what you mean.
+
+goodbye -> bye.
+
+Brad 
+
+CONVO N0.5
+
+
 
 
