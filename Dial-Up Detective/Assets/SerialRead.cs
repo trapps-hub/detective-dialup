@@ -35,6 +35,9 @@ public class SerialRead : MonoBehaviour
         try
         {
             serialPort = new SerialPort(portName, baudRate, Parity.None, 8, StopBits.One);  // Initialize the SerialPort with port and baud rate
+            
+            serialPort.DtrEnable = true;
+            
             serialPort.Open();  // Open the serial port
             serialPort.ReadTimeout = 5000;  // Set the timeout for reading
             isConnected = serialPort.IsOpen;
