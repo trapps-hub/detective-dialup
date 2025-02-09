@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SurfaceImperfections015_2K-PNG_Opacity_0: 5521314979386909482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

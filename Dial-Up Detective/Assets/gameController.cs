@@ -13,8 +13,15 @@ public class gameController : MonoBehaviour
     void Start()
     {
         textbox = GameObject.Find("SpeakBox").GetComponent<TextMeshProUGUI>();
-        RollInText("RollingRollingRolling RollingRolling RollingRollingRollingRollingRollingRollingRollingRollingRollingRollingRollingRollingRollingRollingRollingRolling");
         
+        // Game starts with the Commisary calling the phone.
+        // RING PHONE HERE
+        // USER PICKS UP
+
+        RollInText(@"Morning Detective, new case for you to work on and it needs top priority.
+                    If anyone can solve this one, it's you. Ready for a rundown?");
+        
+        int currentCall = -1;
     }
 
     // Update is called once per frame
